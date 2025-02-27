@@ -1,7 +1,7 @@
 ### **Electricity_Demand_Belgium**
 - **Description**: This project aims to clean, prepare and analyze electricity demand in Belgium using statistics and ML techniques.
 - **Technologies**: Python, Pandas, Matplotlib, Scikit-learn, XGBoost
-- **Notebook**: [View Analysis](Electricity_Demand/electricity_demand_BE.ipynb)
+- **Notebook**: [View Analysis](https://github.com/TGM-Portfolio/Portfolio/blob/main/Electricity_Demand/electricity_demand_BE.ipynb)
 
 ## Dataset Download
 
