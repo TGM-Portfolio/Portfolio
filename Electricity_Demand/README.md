@@ -8,7 +8,7 @@
 The dataset used in these projects is too large to be included in this repository.  
 You can **download it from the latest GitHub release**:  
 
-[**Download Dataset (124MB)**]([https://github.com/YOUR-USERNAME/YOUR-REPO/releases/tag/v1.0](https://github.com/TGM-Portfolio/Portfolio/releases))
+[**Download Dataset (124MB)**](https://github.com/TGM-Portfolio/Portfolio/releases)
 
 ---
 
