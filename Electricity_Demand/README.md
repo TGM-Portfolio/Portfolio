@@ -15,4 +15,6 @@ You can **download it from the latest GitHub release**:
 ##  Installation
 
 To install the necessary dependencies:  
+
+```sh
 pip install -r requirements.txt
